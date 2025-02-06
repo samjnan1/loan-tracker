@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/loan-tracker/static/css/main.e6c13ad2.css",
+    "main.js": "/loan-tracker/static/js/main.565ed0ee.js",
+    "index.html": "/loan-tracker/index.html",
+    "main.e6c13ad2.css.map": "/loan-tracker/static/css/main.e6c13ad2.css.map",
+    "main.565ed0ee.js.map": "/loan-tracker/static/js/main.565ed0ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.565ed0ee.js"
+  ]
+}
